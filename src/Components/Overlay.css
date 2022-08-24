@@ -1,0 +1,19 @@
+.search-box {
+    padding: 10px;
+    position: relative;
+}
+.search {
+    background-color: rgb(125, 198, 198);
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ref-btn {
+    margin-left: 4px;
+    padding: 2px;
+    font-size: medium;
+    background-color: rgba(125, 198, 198);
+}
+.ref-btn:hover {
+    cursor: pointer;
+    background-color: beige;
+}
